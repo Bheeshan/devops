@@ -1,0 +1,1 @@
+to be delete the file to check the rm command
