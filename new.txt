@@ -1,1 +1,3 @@
 In master branch file new.txt
+**Adding file from branch feat1***
+Hello working on new feature on feat1 branch
